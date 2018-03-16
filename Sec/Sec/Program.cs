@@ -10,6 +10,7 @@ namespace Sec
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
